@@ -1,0 +1,83 @@
+*,body{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+
+.card-1{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 15rem;
+  background-color: rgb(238, 243, 242);
+  /* border-bottom: #057070 5px solid ; */
+  /* padding: 3rem; */
+  
+ 
+ 
+  
+  /* background-color: aqua; */
+}
+.image{
+  width: 50%;
+}
+.slide h1{
+  font-size: 34px;
+  background-color:rgb(83, 182, 149);
+  border-radius: 2rem;
+  padding: 0.5rem;
+  color: white;
+  /* display: none; */
+}
+.slide{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* padding: auto 5rem; */
+  margin-top: 2rem;
+  height: 15rem;
+  
+  
+}
+.card-2{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 15rem;
+  background-color: rgb(238, 243, 242);
+  /* padding: 3rem; */
+  
+  
+ 
+  
+  /* background-color: aqua; */
+}
+.card-3{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 15rem;
+  background-color: rgb(238, 243, 242);
+  /* border-bottom: #080c04 5px solid ; */
+  /* padding: 3rem; */
+  /* background-color: aqua; */
+}
+.card-4{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 15rem;
+  background-color: rgb(238, 243, 242);
+  /* padding: 3rem; */
+  /* border-bottom: #0b0c0c 2px solid ; */
+  /* background-color: aqua; */
+}
