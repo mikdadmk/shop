@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.ebabf613.css",
+    "main.js": "/my-app/static/js/main.92c8f68d.js",
+    "static/js/453.a6a97343.chunk.js": "/my-app/static/js/453.a6a97343.chunk.js",
+    "static/media/toy 1.png": "/my-app/static/media/toy 1.0691d03f535f8c7ca757.png",
+    "static/media/toy 3.png": "/my-app/static/media/toy 3.c7f3b4ceae6ceb433c3e.png",
+    "static/media/toy 4.png": "/my-app/static/media/toy 4.b7f7d726ab800554ff21.png",
+    "static/media/kids2.jpeg": "/my-app/static/media/kids2.2f04620335480aed6047.jpeg",
+    "static/media/logo.jpg": "/my-app/static/media/logo.7dbe8e3c3e0a12eac781.jpg",
+    "static/media/kids.jpeg": "/my-app/static/media/kids.385f853d53d5ff169062.jpeg",
+    "static/media/revicons.eot": "/my-app/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/my-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/my-app/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/my-app/index.html",
+    "static/media/cart-plus-fill.svg": "/my-app/static/media/cart-plus-fill.da45d091cab8bf2b30c0ba1a2279d562.svg",
+    "main.ebabf613.css.map": "/my-app/static/css/main.ebabf613.css.map",
+    "main.92c8f68d.js.map": "/my-app/static/js/main.92c8f68d.js.map",
+    "453.a6a97343.chunk.js.map": "/my-app/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebabf613.css",
+    "static/js/main.92c8f68d.js"
+  ]
+}
